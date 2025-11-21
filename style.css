@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+    #contato .lg\:h-full {
+        height: 100%;
+    }
+}
